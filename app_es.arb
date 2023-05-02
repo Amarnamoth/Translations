@@ -47,7 +47,7 @@
       }
     }
   },
-  "featureUnsupported": "Sin soporte para {feature}",
+  "featureUnsupported": "{feature} no soportada",
   "@featureUnsupported": {
     "placeholders": {
       "feature": {
@@ -56,9 +56,9 @@
       }
     }
   },
-  "rules": "Reglas",
+  "rules": "Normas",
   "@rules": {},
-  "rulesLearnMore": "Aprende más sobre las reglas",
+  "rulesLearnMore": "Aprende más sobre las normas",
   "@rulesLearnMore": {},
   "postPreviewTitle": "Vista previa",
   "@postPreviewTitle": {},
@@ -122,7 +122,7 @@
   "@apiTypeDialog_title": {},
   "apiTypeDialog_description": "Kaiteki intentó determinar qué software utiliza la instancia pero no lo consiguió. Por favor, selecciona el correcto abajo.",
   "@apiTypeDialog_description": {},
-  "sharedBackendFunctionality": "Estas son las características que tanto {api} como Kaiteki soportan:",
+  "sharedBackendFunctionality": "Éstas son las características que tanto {api} como Kaiteki soportan:",
   "@sharedBackendFunctionality": {
     "placeholders": {
       "api": {
@@ -133,9 +133,9 @@
   },
   "previewSupport": "Vista previa de mensajes",
   "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Descubre instancias",
+  "discoverInstancesButtonLabel": "Descubrir instancias",
   "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Descubre instancias",
+  "discoverInstancesTitle": "Descubrir instancias",
   "@discoverInstancesTitle": {},
   "discoverInstancesDisclaimer": "Esta es una lista de instancias seleccionadas a mano y recomendadas por los desarrolladores de Kaiteki, cuyo software es soportado.",
   "@discoverInstancesDisclaimer": {},
